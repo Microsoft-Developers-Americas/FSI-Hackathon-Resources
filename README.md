@@ -39,7 +39,7 @@
 ||Accessibility & Inclusion Chat or Copilot Experience with Natural language interfaces|
 |---|---|
 |Description | NLI can assist everyone with their unique needs, Code Generation Makes developing code more inclusive and easier for all users, Voice Input that makes services easier for people with mobility disabilities and those on the go, Image Generation that makes content generation easier for all and more accessible to people with vision disabilities.|
-|Technology|Azure OpenAI Service, AI Services, APIM, Azure Functions, AKS, PVA, GitHub Copilot, , Cosmos DB|
+|Technology|Azure OpenAI Service, AI Services, APIM, Azure Functions, AKS, PVA, GitHub Copilot, Cosmos DB|
 |GitHub Repo|https://github.com/Azure/azure-openai-samples/tree/main/solution_accelerators/PowerApp|
 
 
